@@ -1,4 +1,4 @@
-# Generative Models: Practical Notebooks
+# Generative Models: Practical Notebooks 
 
 This repository contains my lab works for the Generative Models course. Each lab explores a key generative approach, combining theoretical insights with hands-on PyTorch implementation. Below is a summary of the content and skills applied in each lab.
 
